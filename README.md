@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatiDegli
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer ciences
+- 🌱 I’m currently learning Computer Cience
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: matias.deglinnocenti@est.fi.uncoma.edu.ar
 
